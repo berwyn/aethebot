@@ -43,7 +43,7 @@
     "gif-encoder-2": "tyrone-sudeium/gif-encoder-2#feature/type_definitions",
     "minimist": "^1.2.3",
     "moment-precise-range-plugin": "^1.2.3",
-    "moment-timezone": "^0.5.11",
+    "moment-timezone": "^0.5.35",
     "random-number-csprng": "^1.0.2",
     "redis": "^2.6.5",
     "strict-event-emitter-types": "^2.0.0",
